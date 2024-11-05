@@ -18,9 +18,9 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2nmzqGSqy1DX4JbbdYlPHFLLjZu" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -38,6 +38,7 @@
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -50,6 +51,7 @@
       <option name="presentableId" value="Default" />
       <updated>1729593232283</updated>
       <workItem from="1729593239381" duration="499000" />
+      <workItem from="1730568757159" duration="37000" />
     </task>
     <servers />
   </component>
